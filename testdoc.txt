@@ -1,0 +1,1 @@
+this is a test script .This file is first encrypted and shredded using shamirs secret algorithm and then using aes we decrypt this message.

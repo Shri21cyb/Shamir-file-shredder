@@ -1,0 +1,3 @@
+pycryptodome
+secretsharing
+tkinter  
